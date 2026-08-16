@@ -1,0 +1,17 @@
+{
+  "papers": [
+    {
+      "parentKey": "PARENT01",
+      "attachmentKey": "PDFATT01",
+      "title": "Exact Zotero Parent Title",
+      "pdfPath": "/absolute/path/to/the/attached-paper.pdf",
+      "concepts": [
+        {
+          "heading": "Khái niệm mà đoạn này giải thích",
+          "text": "This must be an exact and complete English sentence copied from one page of the attached PDF.",
+          "note": "Giải thích bằng tiếng Việt cho người mới, nhưng giữ terminology tiếng Anh cần thiết. Nêu đoạn này thật sự chứng minh điều gì, evidence hoặc mechanism nằm ở đâu, nó liên quan thế nào đến câu hỏi nghiên cứu, và giới hạn claim nào vẫn còn. Note production phải dài ít nhất 180 ký tự; đây là quality guard chứ không phải mục tiêu viết dài."
+        }
+      ]
+    }
+  ]
+}
